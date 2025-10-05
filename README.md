@@ -52,7 +52,7 @@ cd Telco-Customer-Churn-Analysis
 ```bash
 jupyter notebook TCA.ipynb
 ```
-3️⃣ Run all cells in the notebook to reproduce the analysis, visualizations, and insights.
+3️⃣ Run all the cells in notebook.
 ---
 ## 📊 Key Insights
 Here are some of the major findings from the analysis:
